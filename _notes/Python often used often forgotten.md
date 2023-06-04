@@ -1,5 +1,6 @@
-Python often used often forgotten
-==========
+---
+title: Python often used often forgotten
+---
 
 Plotting
 -------

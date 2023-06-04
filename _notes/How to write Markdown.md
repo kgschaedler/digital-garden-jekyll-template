@@ -1,5 +1,6 @@
-How to write Markdown
-===========
+---
+title: How to write Markdown
+---
 
 Formatting used, for example, in this [[About digital gardening]]
 
